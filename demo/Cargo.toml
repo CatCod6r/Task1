@@ -1,0 +1,9 @@
+[package]
+name = "demo"
+version = "0.1.0"
+authors = ["CatC6der"]
+edition = "2021"
+license = "MIT" 
+
+[dependencies]
+lib = { path = "../lib/" }

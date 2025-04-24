@@ -1,0 +1,8 @@
+[package]
+name = "lib"
+version = "0.1.0"
+authors = ["CatC6der"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
